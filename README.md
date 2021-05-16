@@ -22,3 +22,5 @@ states.php?state=1
 
 district.php?state=1&district=1
 
+
+Im also attaching an SQL database. Please feel free to download and use.
